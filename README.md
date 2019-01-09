@@ -7,3 +7,4 @@
 - [03. Control of Flow - function](python/slides/Slide_03_Control_of_flow_function.ipynb)
 - [04. Recursive function](python/slides/Slide_04_Recursive_function.ipynb)
 - [05. Data structure](python/slides/Slide_05_Data_structure.ipynb)
+- [06. Module](python/slides/Slide_06_Module.ipynb)
