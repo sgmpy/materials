@@ -10,3 +10,4 @@
 - [06. Module](python/slides/Slide_06_Module.ipynb)
 - [07. Errors and exceptions](python/slides/Slide_07_Errors_and_exceptions.ipynb)
 - [08. OOP intro](python/slides/Slide_08_OOP_intro.ipynb)
+- [09. OOP](python/slides/Slide_09_OOP.ipynb)
